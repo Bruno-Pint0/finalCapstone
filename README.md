@@ -4,12 +4,20 @@
 based on the description of the last movie they watched. It utilizes the spaCy natural language processing library 
 to compute text similarity between the last watched movie's description and a collection of movie descriptions stored in a file."""
 
-Requirements
+## Table of Contents
+
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Example](#example)
+- [Contributing](#contributing)
+
+### <a name="requirements"></a>Requirements
 
 Python 3.x
 spaCy library
 'en_core_web_md' spaCy model
-Installation
+### <a name="installation"></a>Installation
 
 1- Clone the repository: git clone https://github.com/your_username/your_repository.git   
 2- Install the required dependencies:
@@ -18,7 +26,7 @@ python -m spacy download en_core_web_md
 
 ![screenshot](Screenshot1.png)
 
-Usage
+### <a name="usage"></a>Usage
 
 1- Ensure that the movie titles and descriptions are stored in a text file named 'movies.txt' within the same directory as the Python script.
 ![screenshot](Screenshot2.png)
@@ -34,7 +42,7 @@ It will then recommend the movie with the highest similarity.
 5- The recommended movie title will be displayed on the console.
 ![screenshot](Screenshot3.png)
 
-Example
+### <a name="example"></a>Example
 
 Suppose the description of the last movie you watched is: 'Will he save their world or destroy it? When the Hulk becomes too dangerous for the Earth,
 the Illuminati trick hulk into a shuttle and launch him into space to a planet where the Hulk can live in peace. Unfortunately, Hulk lands on 
@@ -45,7 +53,7 @@ will be displayed on the console.
 
 ![Screenshot](screenshot.png)
 
-Contributing
+### <a name="contributing"></a>Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
 
