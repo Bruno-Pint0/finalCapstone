@@ -35,6 +35,7 @@ python -m spacy download en_core_web_md
 ![screenshot](Screenshot4.png)
 
 3- Run the script: python watch_next.py         
+
 4- The script will compute the similarity between the last watched movie's description and each movie in the 'movies.txt' file. 
 It will then recommend the movie with the highest similarity.
 ![screenshot](Screenshot5.png)
