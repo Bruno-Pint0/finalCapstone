@@ -34,6 +34,8 @@ the planet Sakaar where he is sold into slavery and trained as a gladiator.'
 Based on this description, the script will recommend a movie from the 'movies.txt' file that has the highest similarity. The recommended movie title 
 will be displayed on the console.
 
+![Screenshot](screenshot.png)
+
 Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
