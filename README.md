@@ -20,6 +20,7 @@ spaCy library
 ### <a name="installation"></a>Installation
 
 1- Clone the repository: git clone https://github.com/your_username/your_repository.git   
+
 2- Install the required dependencies:
 pip install spacy
 python -m spacy download en_core_web_md
