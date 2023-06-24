@@ -16,6 +16,8 @@ Installation
 pip install spacy
 python -m spacy download en_core_web_md
 
+![screenshot](Screenshot1.png)
+
 Usage
 
 1- Ensure that the movie titles and descriptions are stored in a text file named 'movies.txt' within the same directory as the Python script.
